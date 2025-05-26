@@ -21,7 +21,7 @@ The following data cleaning and preprocessing tasks were performed:
 - Formatted `Dt_Customer` to datetime
 - Verified data types for all columns
 - Used boxplot to identify income outliers
-- Exported cleaned dataset to `cleaned_customers.csv`
+- Exported cleaned dataset to `Customer_Data.csv`
 
 ## 📌 How to Run
 1. Clone or download the repository
