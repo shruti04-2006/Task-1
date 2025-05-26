@@ -16,6 +16,7 @@ Downloaded from Kaggle: [Customer Personality Analysis](https://www.kaggle.com/d
 ## 🧹 Data Cleaning Summary
 The following data cleaning and preprocessing tasks were performed:
 - Handled missing values in the `Income` column
+- Sorting according to ID using sort() function
 - Dropped the `Marital_Status` column after creating a cleaned `Marital_Category` column
 - Checked and removed duplicates
 - Formatted `Dt_Customer` to datetime
